@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WcTool": {
+      "commandName": "Project",
+      "commandLineArgs": "-l test.txt"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Tools/.vs
+/Tools/output
+/Tools/WcTool/bin
+/Tools/WcTool/obj
+/Tools/WcTool/output
